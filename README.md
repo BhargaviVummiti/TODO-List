@@ -29,7 +29,7 @@ The app also uses **Local Storage** to save tasks even after refreshing the brow
 
 ## ⚙️ How to Run
 
-1. Go to your TODO-List project on GitHub:
+1. Go to your TODO-List project on GitHub:https://bhargavivummiti.github.io/TODO-List/
 2. **Download** all the files as a ZIP.  
 3. **Extract** the downloaded folder.  
 4. **Open** the `index.html` file in any modern web browser (Chrome, Firefox, Edge, Safari).  
