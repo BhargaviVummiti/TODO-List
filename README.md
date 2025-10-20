@@ -28,7 +28,7 @@ JavaScript – Functionality for adding, editing, deleting, and saving tasks
 
 How to Run:-
 ----------
-1.Go to To-Do List project on GitHub:
+1.Go to To-Do List project on GitHub:https://bhargavivummiti.github.io/TODO-List/
 
 2.Download all the files as a ZIP.
 
